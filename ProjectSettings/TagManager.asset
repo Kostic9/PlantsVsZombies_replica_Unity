@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tile
+  - sun
+  - bullet
+  - bullet_ice
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - zombie
+  - plant
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tile
+    uniqueID: 606412847
+    locked: 0
+  - name: plant
+    uniqueID: 2706200719
+    locked: 0
+  - name: bullet
+    uniqueID: 3658201259
+    locked: 0
+  - name: zombie
+    uniqueID: 576536107
+    locked: 0
+  - name: sun
+    uniqueID: 3137045133
+    locked: 0
